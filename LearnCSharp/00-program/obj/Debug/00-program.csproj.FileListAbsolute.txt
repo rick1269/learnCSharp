@@ -5,3 +5,5 @@ D:\WorkSpace\vsWorkspace\LearnProgram\LearnCSharp\00-program\obj\Debug\00-progra
 D:\WorkSpace\vsWorkspace\LearnProgram\LearnCSharp\00-program\obj\Debug\00-program.csproj.CoreCompileInputs.cache
 D:\WorkSpace\vsWorkspace\LearnProgram\LearnCSharp\00-program\obj\Debug\00-program.exe
 D:\WorkSpace\vsWorkspace\LearnProgram\LearnCSharp\00-program\obj\Debug\00-program.pdb
+D:\WorkSpace\vsWorkspace\LearnProgram\LearnCSharp\00-program\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+D:\WorkSpace\vsWorkspace\LearnProgram\LearnCSharp\00-program\obj\Debug\00-program.csproj.CopyComplete

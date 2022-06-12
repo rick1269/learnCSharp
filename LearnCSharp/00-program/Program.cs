@@ -11,7 +11,7 @@ namespace _00_program
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world");
-            Console.WriteLine("两个数相加{0} + {3}  = {1}", 1, 2, 1);
+            Console.WriteLine("两个数相加{0} + {2}  = {1}", 1, 2, 1);
 
 
             Console.ReadKey();
